@@ -16,7 +16,7 @@ O **Astro** é uma calculadora simples e eficiente para formas geométricas, des
 
 1️⃣ Clone o repositório:  
 ```bash
-git clone https://github.com/DeVitalino/astro.git"
+git clone https://github.com/DeVitalino/astro.git
 
 
 
