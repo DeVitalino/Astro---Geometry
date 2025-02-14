@@ -22,5 +22,5 @@ git clone https://github.com/DeVitalino/astro.git
 
 
 
-(OBS: Este projeto foi desenvolvido como parte de um projeto escolar.)
+(OBS: Este projeto foi desenvolvido para fins acadêmicos, atendendo aos requisitos de uma atividade didática. )
 
